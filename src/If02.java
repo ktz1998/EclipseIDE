@@ -23,11 +23,11 @@ public class If02 {
 			System.out.println(number + "は15未満ではないです");
 		}
 		
-		/*
-		 * if文の条件式を評価した結果が「false」の場合、
+		/* if文の条件式を評価した結果が「false」の場合、
 		 * 最初のelse-if文の条件式を評価し、結果が「true」の場合は
 		 * ブロック内の処理が実行され、「false」の場合は次のelse-if文の条件式を評価.
-		 * 
+		 * else文は、全てのif文とelse-if文の評価結果が「false」の場合に
+		 * ブロック内の処理が実行.
 		 */
 	}
 
