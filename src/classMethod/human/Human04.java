@@ -19,4 +19,9 @@ public class Human04 {
 		   // static変数のhumanCountを表示
 		System.out.println("人の数は" + Human04.humanCount);
 	}
+	
+	public void instanceMethodPrint() {
+		   // インスタンス変数のnameを表示
+		System.out.println("名前は" + name);
+	}
 }
