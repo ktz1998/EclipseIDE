@@ -36,3 +36,5 @@ public class Extend01 {
         System.out.println("Humanクラスのメソッド：名前は、" + human.getName());
     }
 }
+
+aa
